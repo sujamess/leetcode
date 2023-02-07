@@ -1,4 +1,4 @@
-package combination_sum
+package combinationsum
 
 import (
 	"reflect"
